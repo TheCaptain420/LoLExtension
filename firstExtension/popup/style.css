@@ -1,5 +1,27 @@
 html, body {
   width: 300px;
+} 
+
+.yeet{
+padding-left: 4%;
+}
+
+.inputfield{
+padding-top: 55%;
+}
+
+input[type=text]{
+  font-size: 25px;
+}
+
+input[type=submit]{
+  width: 250px;
+  height: 50px;
+  background-color: #4286f4;
+}
+
+.championname{
+  font-size: 25px;
 }
 
 .page-choice {
